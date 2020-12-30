@@ -1,2 +1,2 @@
 # Projects
-diverse Projects for excersising purposes
+diverse projects for excersising purposes
