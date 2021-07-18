@@ -1,0 +1,5 @@
+print("Welcome to the Binary/Hexadecimal Converter App")
+input("Compute binary and hexadecimal values up to the following decimal number: ")
+print("Generating lists....complete!")
+print("\nUsing slices, we will now show a portion of each list.")
+input("What decimal number would you like to start at: ")
